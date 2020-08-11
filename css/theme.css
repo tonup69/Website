@@ -335,7 +335,7 @@ body>.navbar .brand:hover {
 .title-text {
 	font-weight: bold;
 	font-size: 30px;
-	font-color: orange;
+	font-color: #eb9534;
 	margin: 12.5px 0;
 	font-weight: 100;
 	margin-bottom: 25px;
@@ -425,7 +425,7 @@ body>.navbar .brand:hover {
 	margin-bottom: 0px;
 	font-size: 21px;
 	font-weight: 200;
-	color: orange;
+	color: #eb9534;
 	line-height: 15px;
 }
 
